@@ -1,0 +1,27 @@
+{
+  "title": "Mammal gene copies, retrocopies and gene loss vs. human (TOGA), joined to lifespan and body mass",
+  "upload_type": "dataset",
+  "description": "One table with, for each of 19,467 human protein-coding genes and 562 mammal assemblies (one per species), the TOGA gene status, the number of orthologous loci and the number of processed-pseudogene (retrocopy) loci, which TOGA stores in separate files. Joined to AnAge lifespan and body mass, a public mammal tree, two assembly-quality flags (false duplications, sparse retrocopy scans) and a per-assembly outlier ranking. Built to look at Peto's paradox: the elephant TP53 expansion (22 retrocopies in the African elephant, 20 in the Asian) is the documented positive control, and known gene losses in cetaceans are checked by a test script. The README says what the table cannot show, including that cross-species correlation misses single-lineage expansions. Built by AI agents on a home computer and reviewed by a human before publication. Part of the Paper Rerun project.",
+  "creators": [
+    {
+      "name": "Tessaro, Filipe"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "comparative genomics",
+    "TOGA",
+    "orthology",
+    "retrocopies",
+    "processed pseudogenes",
+    "gene loss",
+    "mammals",
+    "longevity",
+    "Peto's paradox",
+    "TP53",
+    "AnAge",
+    "open data",
+    "AI agents"
+  ]
+}

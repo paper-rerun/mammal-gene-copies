@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+dl/
+out/pseudo_loci/
+out/pseudo_loci_extra/
+.venv/

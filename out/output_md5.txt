@@ -1,0 +1,5 @@
+9727fee982c954b74b5085e70704c534 *out/gene_by_species.tsv.gz
+18f3c37848725c9b76e1117df1bdee27 *out/gene_by_species.parquet
+a98f44a2c52f4604d9c7c08b748e3b23 *out/species.tsv
+7d33192c385833bff5ec77409afa0d6d *out/genes.tsv
+ff07d708dd6a25e8b412c219152b84e9 *out/outliers_by_assembly.tsv

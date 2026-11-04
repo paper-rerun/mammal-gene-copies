@@ -1,0 +1,21 @@
+== Retrocopy loci per assembly ==
+TCF12: HLhetGla3 2 | hetGla2 49 | HLfukDam2 2 | cavPor3 0
+NBN: HLhetGla3 9 | hetGla2 33 | HLfukDam2 0 | cavPor3 1
+TCF4: HLhetGla3 0 | hetGla2 27 | HLfukDam2 1 | cavPor3 1
+GAPDH: HLhetGla3 11 | hetGla2 32 | HLfukDam2 23 | cavPor3 34
+RPL21: HLhetGla3 10 | hetGla2 153 | HLfukDam2 128 | cavPor3 172
+
+== HLhetGla3: layout and sequence of the copies ==
+TCF12: 2 loci on 2 scaffolds (most on one scaffold: 1); length median 4048 bp (min 3970, max 4048); same-scaffold gaps < 50 kb: 0 of 0
+   copy-vs-copy 15-mer Jaccard (1 pairs): median 0.268, share >0.5: 0.00, max 0.268
+   flank-vs-flank 15-mer Jaccard (5 kb each side): median 0.011, share >0.5: 0.00, max 0.011
+NBN: 9 loci on 8 scaffolds (most on one scaffold: 2); length median 2442 bp (min 1654, max 2515); same-scaffold gaps < 50 kb: 0 of 1
+   copy-vs-copy 15-mer Jaccard (36 pairs): median 0.166, share >0.5: 0.00, max 0.253
+   flank-vs-flank 15-mer Jaccard (5 kb each side): median 0.000, share >0.5: 0.00, max 0.007
+TCF4: no loci
+GAPDH: 11 loci on 9 scaffolds (most on one scaffold: 2); length median 1105 bp (min 686, max 1148); same-scaffold gaps < 50 kb: 0 of 2
+   copy-vs-copy 15-mer Jaccard (55 pairs): median 0.003, share >0.5: 0.00, max 0.147
+   flank-vs-flank 15-mer Jaccard (5 kb each side): median 0.000, share >0.5: 0.00, max 0.003
+RPL21: 10 loci on 9 scaffolds (most on one scaffold: 2); length median 496 bp (min 379, max 524); same-scaffold gaps < 50 kb: 0 of 1
+   copy-vs-copy 15-mer Jaccard (45 pairs): median 0.008, share >0.5: 0.00, max 0.269
+   flank-vs-flank 15-mer Jaccard (5 kb each side): median 0.001, share >0.5: 0.00, max 0.006

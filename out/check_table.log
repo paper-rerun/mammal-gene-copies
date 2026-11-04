@@ -1,0 +1,18 @@
+ok: species table has 562 unique assemblies
+ok: long table rows 10940454 = 562 assemblies x 19467 genes
+ok: every assembly has one row per gene
+ok: African elephant TP53 retrocopy loci = 22 (>= 19 published; 22 in the 2026-11-04 build)
+ok: Asian elephant TP53 retrocopy loci = 20 (>= 14 published)
+ok: no non-proboscidean assembly reaches the elephants (max 10)
+ok: elephant TP53 parent gene intact
+ok: UCP1 lost (L) in all 9 cetaceans {'HLbalMys1': 'L', 'HLeubGla1': 'L', 'balAcu1': 'L', 'HLbalMus2': 'L', 'HLmegNov2': 'L', 'HLphyCat2': 'L', 'HLorcOrc2': 'L', 'HLturTru4': 'L', 'HLdelLeu2': 'L'}
+ok: F12 lost (L) in all 9 cetaceans {'HLbalMys1': 'L', 'HLeubGla1': 'L', 'balAcu1': 'L', 'HLbalMus2': 'L', 'HLmegNov2': 'L', 'HLphyCat2': 'L', 'HLorcOrc2': 'L', 'HLturTru4': 'L', 'HLdelLeu2': 'L'}
+ok: KLKB1 lost (L) in all 9 cetaceans {'HLbalMys1': 'L', 'HLeubGla1': 'L', 'balAcu1': 'L', 'HLbalMus2': 'L', 'HLmegNov2': 'L', 'HLphyCat2': 'L', 'HLorcOrc2': 'L', 'HLturTru4': 'L', 'HLdelLeu2': 'L'}
+ok: F12 intact in hippo, cow, dog {'HLhipAmp3': 'I', 'bosTau9': 'I', 'canFam6': 'I'}
+ok: KLKB1 intact in hippo, cow, dog {'HLhipAmp3': 'I', 'bosTau9': 'I', 'canFam6': 'I'}
+ok: UCP1 lost in pig (known loss)
+ok: MMP20 lost in minke, blue and right whale {'balAcu1': 'L', 'HLbalMus2': 'L', 'HLeubGla1': 'L'}
+ok: MMP20 intact in orca and dolphin {'HLorcOrc2': 'I', 'HLturTru4': 'I'}
+ok: TP53 ranks 13 of 19467 genes in the African elephant retrocopy outliers (must be top 20)
+ok: TP53 ranks 35 in the Asian elephant retrocopy outliers (must be in the top 50 list)
+all checks passed
