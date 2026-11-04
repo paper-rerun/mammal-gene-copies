@@ -1,5 +1,7 @@
 # Mammal gene copy number, retrocopies and gene loss vs. human (TOGA), joined to lifespan and body mass
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23964193.svg)](https://doi.org/10.5281/zenodo.23964193)
+
 Version 1.0.0, built on 2026-11-04. Part of the Paper Rerun project (https://paper-rerun.github.io). Licence: CC BY 4.0 (see `LICENSE.md`); please also cite the sources listed under "How to cite".
 
 This dataset puts three things TOGA already computes, but stores in separate files, into one table: for every human (hg38) protein-coding gene that TOGA projects (19,467 genes) and each of 562 mammal assemblies (one per species), it gives the TOGA gene status, how many orthologous loci TOGA found, and how many processed-pseudogene (retrocopy) loci TOGA annotated. It adds AnAge life-history traits, the matching tip of a public mammal tree, two assembly-quality flags, and a per-assembly outlier ranking.
